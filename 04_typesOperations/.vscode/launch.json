@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (04-typesOperations\\typesOperations.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "04-typesOperations\\typesOperations.dart"
+        },
+        {
+            "name": "Dart (bin\\typesOperations.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "04-typesOperations",
+            "program": "bin\\typesOperations.dart"
+        }
+    ]
+}
